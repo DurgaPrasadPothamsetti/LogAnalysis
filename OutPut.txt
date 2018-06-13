@@ -1,0 +1,11 @@
+vagrant@ubuntu-xenial:/vagrant$ python LogAnalysis.py 
+These Are The Popular 3 Articles All Time: 
+            ('Candidate is jerk, alleges rival', 338647L) views 
+            ('Bears love berries, alleges bear', 253881L) views 
+            ('Bad things gone, say good people', 178898L) views 
+These are The Popular 3 Authors All Time Are:
+            ('Ursula La Multa', 507594) views 
+            ('Rudolf von Treppenwitz', 423457) views 
+            ('Anonymous Contributor', 170098) views 
+This Days got 1% of errors:
+(datetime.date(2816, 7, 17), Decimal('2.2626862468827260'))errors 
